@@ -1,6 +1,6 @@
 [submodule "component/oai-hss"]
 	path = component/oai-hss
-	url = https://github.com/OPENAIRINTERFACE/openair-hss.git
+	url = https://github.com/aseaudi/openair-hss.git
 [submodule "component/oai-spgwc"]
 	path = component/oai-spgwc
 	url = https://github.com/OPENAIRINTERFACE/openair-spgwc.git
